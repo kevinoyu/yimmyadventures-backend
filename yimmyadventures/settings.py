@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'yimmyadventures_api'
+    'rest_framework',
+    'yimmyadventures_api',
 ]
 
 MIDDLEWARE = [
